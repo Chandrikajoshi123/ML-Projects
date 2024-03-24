@@ -1,4 +1,6 @@
-![download (1)](https://github.com/Chandrikajoshi123/ML-Projects/assets/100508364/53183c0a-db04-4f56-b586-d77c221acfa2)
+
+![dfff](https://github.com/Chandrikajoshi123/ML-Projects/assets/100508364/5c955704-9a32-4d0c-b445-330434a31a98)
+
 
 ## Projects 
 
@@ -15,6 +17,10 @@
       the relationships between two data factors. </p2>
 
   <t3> New data ---> Trained Logistic Regression Model ---> Rock(R) or Mine(M) </t3>
+
+![imgda](https://github.com/Chandrikajoshi123/ML-Projects/assets/100508364/a0ca8f6d-427c-4f96-af52-bac1b74e56fd)
+
+  
 
   
              
